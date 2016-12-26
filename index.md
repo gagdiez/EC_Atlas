@@ -1,5 +1,5 @@
 ## Extrinsic Connectivity Based Atlas by Guillermo Gallardo
-# Athena Team at INRIA
+### Athena Team at INRIA
 
 
 On [Gallardo et al (2016)](https://hal.archives-ouvertes.fr/hal-01358436/file/Gallardo.pdf) we presented a technique to parcellate the human cortex based on its extrinsic connectivity. Here we present an atlas extracted using our technique. 
