@@ -1,37 +1,20 @@
-## Welcome to GitHub Pages
+## Extrinsic Connectivity Based Atlas by Guillermo Gallardo
+# Athena Team at INRIA
 
-You can use the [editor on GitHub](https://github.com/gagdiez/EC_atlas/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+On [Gallardo et al (2016)](https://hal.archives-ouvertes.fr/hal-01358436/file/Gallardo.pdf) we presented a technique to parcellate the human cortex based on its extrinsic connectivity. Here we present an atlas extracted using our technique. 
 
-### Markdown
+### As a 32k CIFTI *LABEL* _FILE_
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
+- [Left Hemisphere](files/EC_atlas.L.32k.dlabel.gii)
+- [Right Hemisphere](files/EC_atlas.L.32k.dlabel.gii)
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+### As a CIFTI VOLUME *LABEL* _FILE_ on MNI Template
+- Will we uploaded on Tuesday 27th of December
+- Will we uploaded on Tuesday 27th of December
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/gagdiez/EC_atlas/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### As a CIFTI VOLUME *LABEL* _FILE_ on Colin Template
+- Will we uploaded on Tuesday 27th of December
+- Will we uploaded on Tuesday 27th of December
