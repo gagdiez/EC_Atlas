@@ -9,8 +9,6 @@ On [Gallardo et al (2016)](https://hal.archives-ouvertes.fr/hal-01358436/file/Ga
 - [Left Hemisphere](files/EC_atlas.L.32k.dlabel.gii)
 - [Right Hemisphere](files/EC_atlas.L.32k.dlabel.gii)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
 ### As a CIFTI VOLUME *LABEL* _FILE_ on MNI Template
 - Will we uploaded on Tuesday 27th of December
 - Will we uploaded on Tuesday 27th of December
