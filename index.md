@@ -10,7 +10,7 @@ In [Gallardo et al (2016)](https://hal.archives-ouvertes.fr/hal-01358436/file/Ga
 
 > Guillermo  Gallardo,  Rutger  Fick,  William  Wells  Iii,  Rachid  Deriche,  Demian  Wassermann.
 Groupwise Structural Parcellation of the Cortex: A Sound Approach Based on Logistic Models.
-MICCAI 2016 Workshop on Computational Diusion MRI, Oct 2016, Athens, Greece.
+MICCAI 2016 Workshop on Computational Diffusion MRI, Oct 2016, Athens, Greece.
 
 ### CIFTI VOLUME *LABEL* _FILE_ over Colin27 Template
 
