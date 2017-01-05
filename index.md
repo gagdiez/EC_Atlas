@@ -17,6 +17,7 @@ Here you can download our parcellation projected over the cortical surface of th
 
 - [Left Hemisphere Parcellation (nii file)](files/colin/parcellation/EC_atlas.L.colin27.label.nii)
 - [Right Hemisphere Parcellation (nii file)](files/colin/parcellation/EC_atlas.R.colin27.label.nii)
+> The above image was created using [fslview](https://fsl.fmrib.ox.ac.uk/fsl/fslwiki/) .
 
 ![Parcellation on Colin27](img/colin_and_us.png)
 
@@ -36,8 +37,8 @@ Here you can download our parcellation projected over the cortical surface of th
 > CIFTI (Connectivity Informatics Technology Initiative) standardizes file formats for the storage of connectivity data. These formats are developed by the Human Connectome Project and other interested parties.
 
 - Colin27 [surfaces](files/colin/surfaces/all_surfaces.zip) (created using [freesurfer](https://surfer.nmr.mgh.harvard.edu/) and the [HCP pipeline](http://www.humanconnectome.org/documentation/HCP-pipelines/))
-- [Left Hemisphere (gii file)](files/EC_atlas.L.32k.label.gii)
-- [Right Hemisphere (gii file)](files/EC_atlas.L.32k.label.gii)
+- [Left Hemisphere Parcellation (gii file)](files/EC_atlas.L.32k.label.gii)
+- [Right Hemisphere Parcellation (gii file)](files/EC_atlas.L.32k.label.gii)
 
-**These files are can be opened using Human Connectome's [workbench](https://www.humanconnectome.org/software/connectome-workbench.html)**
+**These files can be opened using Human Connectome's [workbench](https://www.humanconnectome.org/software/connectome-workbench.html)**
 
