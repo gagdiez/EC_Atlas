@@ -6,7 +6,11 @@ guillermo dot gallardo-diez at inria dot fr
 
 ![Atlas](img/atlas.jpg)
 
-On [Gallardo et al (2016)](https://hal.archives-ouvertes.fr/hal-01358436/file/Gallardo.pdf) we presented a technique to parcellate the human cortex based on its extrinsic connectivity. Using this tehcnique, we computed a novel atlas of the human cortex. Here you can find our atlas and other resources related to it.
+In [Gallardo et al (2016)](https://hal.archives-ouvertes.fr/hal-01358436/file/Gallardo.pdf) we presented a technique to parcellate the human cortex based on its extrinsic connectivity. Using this tehcnique, we computed a novel atlas of the human cortex. Here you can find our atlas and other resources related to it.
+
+> Guillermo  Gallardo,  Rutger  Fick,  William  Wells  Iii,  Rachid  Deriche,  Demian  Wassermann.
+Groupwise Structural Parcellation of the Cortex: A Sound Approach Based on Logistic Models.
+MICCAI 2016 Workshop on Computational Diusion MRI, Oct 2016, Athens, Greece.
 
 ### CIFTI VOLUME *LABEL* _FILE_ over Colin27 Template
 
