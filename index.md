@@ -35,7 +35,7 @@ Here you can download our parcellation projected over the cortical surface of th
 
 > CIFTI (Connectivity Informatics Technology Initiative) standardizes file formats for the storage of connectivity data. These formats are developed by the Human Connectome Project and other interested parties.
 
-- Colin27 surfaces (created with [freesurfer](https://surfer.nmr.mgh.harvard.edu/) and the [HCP pipeline](http://www.humanconnectome.org/documentation/HCP-pipelines/))
+- Colin27 [surfaces](files/colin/surfaces/all_surfaces.zip) (created using [freesurfer](https://surfer.nmr.mgh.harvard.edu/) and the [HCP pipeline](http://www.humanconnectome.org/documentation/HCP-pipelines/))
 - [Left Hemisphere (gii file)](files/EC_atlas.L.32k.label.gii)
 - [Right Hemisphere (gii file)](files/EC_atlas.L.32k.label.gii)
 
