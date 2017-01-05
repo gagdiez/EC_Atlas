@@ -1,7 +1,8 @@
 ## Extrinsic Connectivity Based Atlas
 
-Guillermo Gallardo, Athena Team, INRIA
-*guillermo dot gallardo-diez at inria dot fr *
+Guillermo Gallardo, Athena Team, INRIA.
+
+guillermo dot gallardo-diez at inria dot fr
 
 ![Atlas](img/atlas.jpg)
 
