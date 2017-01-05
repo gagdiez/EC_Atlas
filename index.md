@@ -6,7 +6,7 @@ guillermo dot gallardo-diez at inria dot fr
 
 ![Atlas](img/atlas.jpg)
 
-On [Gallardo et al (2016)](https://hal.archives-ouvertes.fr/hal-01358436/file/Gallardo.pdf) we presented a technique to parcellate the human cortex based on its extrinsic connectivity. Here we present an atlas extracted using this technique.
+On [Gallardo et al (2016)](https://hal.archives-ouvertes.fr/hal-01358436/file/Gallardo.pdf) we presented a technique to parcellate the human cortex based on its extrinsic connectivity. Using this tehcnique, we computed a novel atlas of the human cortex. Here you can find our atlas and other resources related to it.
 
 ### CIFTI VOLUME *LABEL* _FILE_ over Colin27 Template
 
@@ -14,7 +14,7 @@ On [Gallardo et al (2016)](https://hal.archives-ouvertes.fr/hal-01358436/file/Ga
 
 - [Colin27 Template T1 Image (nii file)](files/colin/T1/colin27.nii.gz)
 
-Here you can download our parcellation projected over the cortical surface of the Colin27 template:
+Here you can download our parcellation projected over Colin27's T1 image:
 
 - [Left Hemisphere Parcellation (nii file)](files/colin/parcellation/EC_atlas.L.colin27.label.nii)
 - [Right Hemisphere Parcellation (nii file)](files/colin/parcellation/EC_atlas.R.colin27.label.nii)
@@ -26,7 +26,8 @@ Here you can download our parcellation projected over the cortical surface of th
 
 ### CIFTI VOLUME *LABEL* _FILE_ over HCP's Subject 100307 (MNI Space)
 
-> HCP datasets are freely available to the scientific community. Here you can download our parcellation projected over the cortex of the subject 100307.
+> To obtain brain connectivity maps of the highest quality, the Human Connectome Project (HCP) is using cutting-edge MR hardware, including new 3T and 7T MR scanners and customized head coils. MR data acquisition has been optimized through refinements to our pulse sequences and key pre-processing steps.
+Here you can download our parcellation projected over the T1 of subject 100307 from the HCP.
 
 - [Left Hemisphere (nii file)](files/EC_atlas.L.100307.label.nii)
 - [Right Hemisphere (nii file)](files/EC_atlas.R.100307.label.nii)
