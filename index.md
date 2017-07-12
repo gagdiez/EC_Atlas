@@ -46,7 +46,7 @@ Here you can download our parcellation projected over the T1 of subject 100307 f
 
 - Colin27 [surfaces](files/colin/surfaces/all_surfaces.zip) (created using [freesurfer](https://surfer.nmr.mgh.harvard.edu/) and the [HCP pipeline](http://www.humanconnectome.org/documentation/HCP-pipelines/))
 - [Left Hemisphere Parcellation (gii file)](files/EC_atlas.L.32k.label.gii)
-- [Right Hemisphere Parcellation (gii file)](files/EC_atlas.L.32k.label.gii)
+- [Right Hemisphere Parcellation (gii file)](files/EC_atlas.R.32k.label.gii)
 
 **These files can be opened using Human Connectome's [workbench](https://www.humanconnectome.org/software/connectome-workbench.html)**
 
