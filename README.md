@@ -1,5 +1,7 @@
 # An Extrinsic Connectivity Based Atlas.
 
+![colin](https://gagdiez.github.io/EC_atlas/img/colin_and_us.png)
+
 We recently presented a technique to parcellate the human cortex based on its extrinsic connectivity (Gallardo et al 2017). Using this tehcnique, we computed a novel atlas of the human cortex. In [the website](https://gagdiez.github.io/EC_atlas/) you can find our atlas and other resources related to it.
 
 ## Paper
